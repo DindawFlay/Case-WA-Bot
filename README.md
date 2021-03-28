@@ -112,7 +112,7 @@ Edit the required value in `script.js`. You can get the api key at [`LoL Human R
 * `Broadcast`
 
 ## Note:
-* You can request a case in my [`WhatsApp`](http://wa.me/62895418200111).
+* You can request a case in my [`WhatsApp`](http://wa.me/6285894628645).
 
 # Thanks To
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
