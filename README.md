@@ -112,6 +112,7 @@ Edit the required value in `script.js`. You can get the api key at [`LoL Human R
 * `Stickerwm`
 * `Takestick`
 * `Broadcast`
+* `Setprefix`
 
 ## Note:
 * You can request a case in my [`WhatsApp`](http://wa.me/6285894628645).
