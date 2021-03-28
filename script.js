@@ -34,7 +34,7 @@ const { exit } = require('process')
 const { mimeTypes } = require('file-type')
 
     // {SETTING}  \\
-    apikey = 'rizkey:v' //GANTI PAKE APIKEY LU
+    apikey = '' //GANTI PAKE APIKEY LU
     prefix = '/' //GANTI PAKE PREFIX YANG LU MAU
     owner = '6285894628645' //GANTI PAKE NOMOR LU
     // {SETTING}  \\
