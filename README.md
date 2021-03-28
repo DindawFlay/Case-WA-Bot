@@ -8,6 +8,7 @@
 > pkg install git -y
 > pkg install nodejs -y
 > pkg install ffmpeg -y
+> npm i imgbb-uploader
 ```
 
 ## Windows
@@ -17,7 +18,7 @@
 
 ## Cloning this repo
 ```cmd
-> git clone https://github.com/LoL-Human/Case-WA-Bot.git
+> git clone https://github.com/riznih/Case-WA-Bot.git
 > cd Case-WA-Bot
 ```
 
@@ -26,14 +27,12 @@
 > npm i
 ```
 
-## Edit config file
-Edit the required value in `config.json`. You can get the api key at [`LoL Human Rest API`](http://api.lolhuman.xyz/).
-```json
-{
-    "apikey": "",
-    "prefix": "/",
-    "owner": "62895418200111"
-}
+## Edit script.js file
+Edit the required value in `script.js`. You can get the api key at [`LoL Human Rest API`](http://api.lolhuman.xyz/).
+```js
+    apikey = ''
+    prefix = '/'
+    owner = '6285894628645'
 ```
 
 ## Run the bot
@@ -66,6 +65,15 @@ Edit the required value in `config.json`. You can get the api key at [`LoL Human
 * `Textprome`
 * `Photo Oxy`
 * `Ephoto 360`
+
+### Stalking
+* `Stalkig`
+* `Stalktiktok`
+* `Stalktwitter`
+
+### Other
+* `Ssweb`
+* `Spamsms`
 
 ### Image Search
 * `Konachan Search`
