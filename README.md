@@ -109,6 +109,8 @@ Edit the required value in `script.js`. You can get the api key at [`LoL Human R
 
 ### Etc
 * `Sticker`
+* `Stickerwm`
+* `Takestick`
 * `Broadcast`
 
 ## Note:
