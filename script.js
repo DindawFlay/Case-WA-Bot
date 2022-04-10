@@ -34,16 +34,16 @@ const { exit } = require('process')
 const { mimeTypes } = require('file-type')
 
     // {SETTING}  \\
-    apikey = '' //GANTI PAKE APIKEY LU
-    prefix = '/' //GANTI PAKE PREFIX YANG LU MAU
-    owner = '6285894628645' //GANTI PAKE NOMOR LU
+    apikey = '3f56f3c5799ae89c6d0f9c96' //GANTI PAKE APIKEY LU
+    prefix = '.' //GANTI PAKE PREFIX YANG LU MAU
+    owner = '6289515233398' //GANTI PAKE NOMOR LU
     // {SETTING}  \\
 
     // {DONASI}  \\
-    donasi_pulsa = '085894628645' //GANTI PAKE NOMOR LU  //
-    donasi_gopay = '085894628645'//GANTI PAKE NOMOR LU  //
-    donasi_dana = '085894628645'//GANTI PAKE NOMOR LU //
-    donasi_ovo = '085894628645' //GANTI PAKE NOMOR LU //
+    donasi_pulsa = '089515233398' //GANTI PAKE NOMOR LU  //
+    donasi_gopay = 'BELUM BIKIN'//GANTI PAKE NOMOR LU  //
+    donasi_dana = 'BELUM BIKIN'//GANTI PAKE NOMOR LU //
+    donasi_ovo = 'BELUM ADA MIN' //GANTI PAKE NOMOR LU //
     // {DONASI}  \\
 
 async function starts() {
